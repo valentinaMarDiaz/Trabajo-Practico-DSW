@@ -18,7 +18,7 @@ Registro inteligente de entrenamiento deportivo. Aplicación web para deportista
 
 ## Modelo
 
-![Modelo entidad-relación del sistema](DSW.drawio.png)
+![Modelo entidad-relación del sistema](img/DSW.drawio.png)
 
 ## Alcance Funcional
 
