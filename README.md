@@ -8,8 +8,7 @@
 * 52181- Raimundo, Juan Cruz  
 
 ## Repositorios
-* frontend app  
-* backend app  
+--- 
 
 ## Tema
 
