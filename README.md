@@ -43,14 +43,3 @@ Registro inteligente de entrenamiento deportivo. Aplicación web para deportista
 
 ---
 
-## Alcance Adicional Voluntario
-
-> Nota: El Alcance Adicional Voluntario es opcional, pero ayuda a que la funcionalidad del sistema esté completa y será considerado en la nota en función de su complejidad y esfuerzo.
-
-### Req
-
-| Tipo | Detalle |
-|------|---------|
-| Listados | 1. *(vacío)* <br> 2. *(vacío)* |
-| CUU/Epic | 1. *(vacío)* <br> 2. *(vacío)* |
-| Otros | 1. *(vacío)* |
