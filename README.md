@@ -38,7 +38,7 @@ Registro inteligente de entrenamiento deportivo. Aplicación web para deportista
 
 | Tipo | Detalle |
 |------|---------|
-| CRUD | (2. CRUD Entrenador ) |
+| CRUD |  |
 | CUU/Epic | 1. Asignar entrenamiento |
 
 ---
