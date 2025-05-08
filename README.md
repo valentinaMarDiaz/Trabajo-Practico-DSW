@@ -39,7 +39,7 @@ Registro inteligente de entrenamiento deportivo. Aplicación web para deportista
 | Tipo | Detalle |
 |------|---------|
 | CRUD |  |
-| CUU/Epic | 1. Feedback del entrenadr o ejercicio |
+| CUU/Epic | 1. Feedback del entrenador o ejercicio |
 
 ---
 
